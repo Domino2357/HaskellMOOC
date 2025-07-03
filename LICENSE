@@ -1,2 +1,5 @@
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.  
-To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This license was chosen to remain consistent with the licensing of the original [Haskell MOOC](https://github.com/moocfi/haskell-mooc) materials, which are also published under CC BY-SA 4.0.
